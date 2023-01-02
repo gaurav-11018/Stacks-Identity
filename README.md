@@ -8,7 +8,7 @@ The Stacks Identity project is designed to be interoperable with other identity 
 
 
 ## Features
-Create, update, and delete identities on the Stacks blockchain.
+// Create, update, and delete identities on the Stacks blockchain.
 Request and access identities from other users.
 Verify the authenticity of identities.
 

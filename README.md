@@ -8,10 +8,31 @@ The Stacks Identity project is designed to be interoperable with other identity 
 
 
 ## Features
-// Create, update, and delete identities on the Stacks blockchain.
+Create, update, and delete identities on the Stacks blockchain.
+
 Request and access identities from other users.
+
 Verify the authenticity of identities.
 
 ## Requirements
+
 A Stacks wallet and STX tokens.
+
 Access to the Stacks blockchain.
+
+## Installation
+To install the Stacks Identity project, follow these steps:
+
+1.Clone this repository onto your local machine.
+
+2.Install the necessary dependencies.
+
+3.Deploy the smart contract onto the Stacks blockchain.
+
+4.Interact with the contract using a Stacks wallet or a client library.
+
+## Contributions
+We welcome contributions to the Stacks Identity project. If you have an idea for a feature or improvement, please open an issue or submit a pull request.
+
+## License
+The Stacks Identity project is licensed under the MIT License.

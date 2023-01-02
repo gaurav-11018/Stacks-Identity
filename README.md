@@ -8,10 +8,10 @@ The Stacks Identity project is designed to be interoperable with other identity 
 
 
 ## Features
-Create, update, and delete identities on the Stacks blockchain
-Request and access identities from other users
-Verify the authenticity of identities
+Create, update, and delete identities on the Stacks blockchain.
+Request and access identities from other users.
+Verify the authenticity of identities.
 
 ## Requirements
-A Stacks wallet and STX tokens
-Access to the Stacks blockchain
+A Stacks wallet and STX tokens.
+Access to the Stacks blockchain.

@@ -1,4 +1,4 @@
-## Stacks Identity
+# Stacks Identity
 
 Welcome to the Stacks Identity project, a decentralized identity management solution built on the Stacks blockchain using the Clarity smart contract language.
 
@@ -7,11 +7,11 @@ With the Stacks Identity project, users can easily create and manage their own d
 The Stacks Identity project is designed to be interoperable with other identity systems and platforms, enabling seamless integration and use across different applications and services. It is also built to be compliant with relevant regulations and standards, ensuring that it can be used in a wide range of industries and sectors.
 
 
-# Features
+## Features
 Create, update, and delete identities on the Stacks blockchain
 Request and access identities from other users
 Verify the authenticity of identities
 
-# Requirements
+## Requirements
 A Stacks wallet and STX tokens
 Access to the Stacks blockchain
